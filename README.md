@@ -1,6 +1,46 @@
 <img src="banner.svg" alt="Banner" width="100%"/>
 <h1 align="center">Hi 👋, I'm Eren Akarsu</h1>
-<h3 align="center">## 👋 About Me I'm a Lawyer and Software Engineer with a multidisciplinary background that bridges law, technology, and design. ⚖️ Law graduate and licensed lawyer 💻 Software Engineering graduate through a Double Major Program 🎨 UI/UX Designer focused on user-centered digital experiences I specialize in LegalTech solutions, combining legal expertise with software engineering to create practical, innovative, and user-friendly products for legal professionals and organizations. ### What I Do • Legal Technology Development • UI/UX Design & Product Design • Web & Mobile Interface Design • Legal Software Solutions • Digital Transformation for Legal Services ### Tech Stack HTML • CSS • JavaScript • React • Node.js • Git • Responsive Design ### Design Approach I build modern, accessible, and responsive digital experiences by following UI/UX best practices, usability principles, and user-focused design methodologies. ### Focus Areas ⚖️ LegalTech 🎨 UI/UX Design 📱 Responsive Web & Mobile Design 💡 Product Development 🚀 Digital Innovation</h3>
+<h3 align="left">👋 About Me</h3>
+
+<p align="left">
+I'm a <b>Lawyer</b> and <b>Software Engineer</b> with a multidisciplinary background that bridges law, technology, and design.
+</p>
+
+<ul align="left">
+<li>⚖️ Law graduate and licensed lawyer</li>
+<li>💻 Software Engineering graduate through a Double Major Program</li>
+<li>🎨 UI/UX Designer focused on user-centered digital experiences</li>
+</ul>
+
+<p align="left">
+I specialize in <b>LegalTech solutions</b>, combining legal expertise with software engineering to create practical, innovative, and user-friendly products for legal professionals and organizations.
+</p>
+
+<h3 align="left">What I Do</h3>
+<ul align="left">
+<li>Legal Technology Development</li>
+<li>UI/UX Design & Product Design</li>
+<li>Web & Mobile Interface Design</li>
+<li>Legal Software Solutions</li>
+<li>Digital Transformation for Legal Services</li>
+</ul>
+
+<h3 align="left">Tech Stack</h3>
+<p align="left">HTML • CSS • JavaScript • React • Node.js • Git • Responsive Design</p>
+
+<h3 align="left">Design Approach</h3>
+<p align="left">
+I build modern, accessible, and responsive digital experiences by following UI/UX best practices, usability principles, and user-focused design methodologies.
+</p>
+
+<h3 align="left">Focus Areas</h3>
+<ul align="left">
+<li>⚖️ LegalTech</li>
+<li>🎨 UI/UX Design</li>
+<li>📱 Responsive Web & Mobile Design</li>
+<li>💡 Product Development</li>
+<li>🚀 Digital Innovation</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
